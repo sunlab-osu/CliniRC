@@ -1,5 +1,7 @@
 # Clinical Reading Comprehension (CliniRC)
 
+Original Repository Located Here: https://github.com/xiangyue9607/CliniRC.git
+
 ## Introduction
 This repository provides code for the analysis of Clinical Reading Comprehension task in the ACL2020 paper:
 [Clinical Reading Comprehension: A Thorough Analysis of the emrQA Dataset](https://arxiv.org/abs/2005.00574)
